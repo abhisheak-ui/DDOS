@@ -21,9 +21,9 @@ print " "
 print("\033[91m DISCLAIMER - THIS TOOL IS ILLEGAL & IT'S ONLY FOR EDUCATION PURPOSE !  USE  IT AT YOUR OWN RISK , I AM NOT RESPONSIBLE FOR YOUR ACTION !\033[0m")
 print " "
 print " "
-print "\033[96m CODED BY : ABHISHEK 033[0m"
+print "\033[96m CODED BY : ABHISHEK "
 print " "
-print(" \033[96m DON'T MISUSE IT ! 033[0m")
+print(" \033[96m DON'T MISUSE IT ! ")
 print " "
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
